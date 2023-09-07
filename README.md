@@ -8,3 +8,5 @@ This problem involves the creation and use of a spinner to generate
     * Spinning a spinner and reporting the result
     * Reporting the length of the current run, the number of 
       consecutive spins that are the same as the most recent spin.
+
+![sample code](/img/sample_code.png "sample code")
